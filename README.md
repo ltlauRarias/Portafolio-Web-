@@ -25,7 +25,6 @@
     ↳ <a href="https://github.com/ltlauRarias" target="_blank" style="color:#74b89c; font-weight:bold;">View Git →</a>
 
   </li>
-</div>
 
 <div style="&#10;  text-align:center;&#10;  margin:25px 0;&#10;">
   <img src="https://drive.google.com/uc?id=176Z33Y8mSdZhPPT5fTelMZF8fGaQsseh" style="&#10;      width:180px;&#10;      border-radius:50%;&#10;      border:3px solid #74c69d;&#10;      box-shadow:0 0 25px rgba(116,198,157,0.8);&#10;    "/>
@@ -453,5 +452,3 @@ a través de proyectos creativos.
   </p>
 
 </div>
-
-<style>* {cursor: url(https://pixels.crd.co/assets/images/gallery106/6a88de1c.gif?v=29416114), auto !important;}<style/></style>
