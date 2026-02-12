@@ -31,69 +31,65 @@
 </div>
 
 
-<div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
+<h2 align="center">✦ Software Principales ✦</h2>
 
-  <!-- Título -->
-  <h2 style="&#10;    color:#4f7f5f;&#10;    border-bottom:2px dashed #b9ddb8;&#10;    padding-bottom:6px;&#10;    margin-bottom:18px;&#10;    font-size:16px;&#10;    text-align:center;&#10;  ">
-    ✦ Software Principales ✦
-  </h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://play-lh.googleusercontent.com/uXscDlOOsGsb0zmJGtYHUKjbhWiwO6a9t3DK3ERubeGhGuzYEEkKeRD1KqHyPZvAIw=s256-rw" width="70"/><br/>
+      <sub>✦ Medibang</sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" width="70"/><br/>
+      <sub>✦ Illustrator</sub>
+    </td>
+  </tr>
 
-  <!-- Contenedor Grid -->
-  <div style="&#10;    display:grid;&#10;    grid-template-columns: repeat(2, 1fr);&#10;    gap:20px;&#10;    text-align:center;&#10;  ">
+  <tr>
+    <td align="center">
+      <img src="https://store-images.s-microsoft.com/image/apps.22097.14102915323624777.90ee5c5c-c652-425d-afea-ca532bf9a6fb.53925143-8fee-448c-a6b8-7b4cc636d6c2" width="70"/><br/>
+      <sub>✦ Pixel Studio</sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png" width="70"/><br/>
+      <sub>✦ VS Code</sub>
+    </td>
+  </tr>
 
-    <div>
-      <img src="https://play-lh.googleusercontent.com/uXscDlOOsGsb0zmJGtYHUKjbhWiwO6a9t3DK3ERubeGhGuzYEEkKeRD1KqHyPZvAIw=s256-rw" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Medibang</p>
-    </div>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEpvhQOuCkjQFYaax3e8BMa9yk4Y6xt_HUQ&s" width="70"/><br/>
+      <sub>✦ Unity</sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" width="70"/><br/>
+      <sub>✦ Blender</sub>
+    </td>
+  </tr>
 
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Illustrator</p>
-    </div>
+  <tr>
+    <td align="center">
+      <img src="https://planeamientoeducativo.tech/media/com_allvideoshare/categories/2025-01/Canva-New-Logo.png" width="70"/><br/>
+      <sub>✦ Canva</sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png" width="70"/><br/>
+      <sub>✦ Genially</sub>
+    </td>
+  </tr>
 
-    <div>
-      <img src="https://store-images.s-microsoft.com/image/apps.22097.14102915323624777.90ee5c5c-c652-425d-afea-ca532bf9a6fb.53925143-8fee-448c-a6b8-7b4cc636d6c2" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Pixel Studio</p>
-    </div>
+  <tr>
+    <td align="center">
+      <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" width="70"/><br/>
+      <sub>✦ Figma</sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" width="70"/><br/>
+      <sub>✦ Notion</sub>
+    </td>
+  </tr>
+</table>
 
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ VS Code</p>
-    </div>
-
-    <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEpvhQOuCkjQFYaax3e8BMa9yk4Y6xt_HUQ&s" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Unity</p>
-    </div>
-
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Blender</p>
-    </div>
-
-    <div>
-      <img src="https://planeamientoeducativo.tech/media/com_allvideoshare/categories/2025-01/Canva-New-Logo.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Canva</p>
-    </div>
-
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Genially</p>
-    </div>
-
-    <div>
-      <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Figma</p>
-    </div>
-
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
-      <p style="font-size:12px;">✦ Notion</p>
-    </div>
-
-  </div>
-
-</div>
 
 
 
