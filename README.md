@@ -1,5 +1,106 @@
 <div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
 
+  <!-- General -->
+  <h2 style="&#10;    color:#4f7f5f;&#10;    border-bottom:2px dashed #b9ddb8;&#10;    padding-bottom:6px;&#10;    margin-bottom:12px;&#10;    font-size:16px;&#10;  ">
+    ✦ Sobre mi: ✦
+  </h2>
+
+  <p style="font-size:13px; line-height:1.6;">
+    Soy Ingeniera Multimedia con un fuerte interés en el diseño gráfico y el diseño
+    de experiencias visuales digitales. Trabajo principalmente con diseño 2D y 3D,
+    bocetos de aplicaciones, interfaces visuales, branding y piezas editoriales
+    relacionadas con videojuegos.
+    <br/><br/>
+    Tengo experiencia académica en diseño web y móvil, animación 2D/3D y creación de
+    assets visuales. Me gusta explorar estilos creativos que mezclan lo digital y lo
+    interactivo, cuidando siempre la estética y la intención visual detrás de cada
+    proyecto.
+    <br/><br/>
+    También cuento con conocimientos en HTML y CSS, lo que me permite personalizar
+    interfaces con mayor control visual y estructural.
+  </p>
+<br/>
+  <li style="margin-bottom:8px;">
+    ✦ <strong>GitHub</strong> – Version control <br/>
+    ↳ <a href="https://github.com/ltlauRarias" target="_blank" style="color:#74b89c; font-weight:bold;">View Git →</a>
+
+  </li>
+</div>
+
+<div style="&#10;  text-align:center;&#10;  margin:25px 0;&#10;">
+  <img src="https://drive.google.com/uc?id=176Z33Y8mSdZhPPT5fTelMZF8fGaQsseh" style="&#10;      width:180px;&#10;      border-radius:50%;&#10;      border:3px solid #74c69d;&#10;      box-shadow:0 0 25px rgba(116,198,157,0.8);&#10;    "/>
+</div>
+
+
+<div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
+
+  <!-- Título -->
+  <h2 style="&#10;    color:#4f7f5f;&#10;    border-bottom:2px dashed #b9ddb8;&#10;    padding-bottom:6px;&#10;    margin-bottom:18px;&#10;    font-size:16px;&#10;    text-align:center;&#10;  ">
+    ✦ Software Principales ✦
+  </h2>
+
+  <!-- Contenedor Grid -->
+  <div style="&#10;    display:grid;&#10;    grid-template-columns: repeat(2, 1fr);&#10;    gap:20px;&#10;    text-align:center;&#10;  ">
+
+    <div>
+      <img src="https://play-lh.googleusercontent.com/uXscDlOOsGsb0zmJGtYHUKjbhWiwO6a9t3DK3ERubeGhGuzYEEkKeRD1KqHyPZvAIw=s256-rw" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Medibang</p>
+    </div>
+
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/960px-Adobe_Illustrator_CC_icon.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Illustrator</p>
+    </div>
+
+    <div>
+      <img src="https://store-images.s-microsoft.com/image/apps.22097.14102915323624777.90ee5c5c-c652-425d-afea-ca532bf9a6fb.53925143-8fee-448c-a6b8-7b4cc636d6c2" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Pixel Studio</p>
+    </div>
+
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ VS Code</p>
+    </div>
+
+    <div>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEpvhQOuCkjQFYaax3e8BMa9yk4Y6xt_HUQ&s" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Unity</p>
+    </div>
+
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Blender</p>
+    </div>
+
+    <div>
+      <img src="https://planeamientoeducativo.tech/media/com_allvideoshare/categories/2025-01/Canva-New-Logo.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Canva</p>
+    </div>
+
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Genially</p>
+    </div>
+
+    <div>
+      <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Figma</p>
+    </div>
+
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/960px-Notion-logo.svg.png" style="width:70px; height:70px; object-fit:contain;"/>
+      <p style="font-size:12px;">✦ Notion</p>
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+<div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
+
 <h2 style="&#10;  color:#4f7f5f;&#10;  border-bottom:2px dashed #b9ddb8;&#10;  padding-bottom:6px;&#10;  margin-bottom:12px;&#10;  font-size:16px;&#10;">
 ✦ Proyectos Académicos ✦
 </h2>
@@ -316,3 +417,41 @@ Con su creación, busqué contar con un espacio donde exponer algunos de mis pro
 
 </div></div>
 
+
+<div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
+
+<h2 style="&#10;  color:#4f7f5f;&#10;  border-bottom:2px dashed #b9ddb8;&#10;  padding-bottom:6px;&#10;  margin-bottom:12px;&#10;  font-size:16px;&#10;">
+✦ Connections ✦
+</h2>
+
+<p style="font-size:13px; line-height:1.6;">
+Personas interesadas en diseño multimedia, diseño gráfico, videojuegos,
+arte digital e interfaces visuales.
+<br/><br/>
+Diseñadores, desarrolladores, artistas visuales o equipos creativos con
+quienes pueda colaborar, intercambiar ideas y crecer profesionalmente
+a través de proyectos creativos.
+</p>
+
+</div>
+
+
+<div style="&#10;  background:#eef7ea;&#10;  background-image:radial-gradient(#b9ddb8 1px, transparent 1px);&#10;  background-size:18px 18px;&#10;  border-radius:18px;&#10;  padding:20px;&#10;  font-family:Verdana, Arial, sans-serif;&#10;  color:#2f4f3b;&#10;">
+
+<h2 style="&#10;  color:#4f7f5f;&#10;  border-bottom:2px dashed #b9ddb8;&#10;  padding-bottom:6px;&#10;  margin-bottom:12px;&#10;  font-size:16px;&#10;">
+
+  <!-- General -->
+  <h2 style="&#10;    color:#4f7f5f;&#10;    border-bottom:2px dashed #b9ddb8;&#10;    padding-bottom:6px;&#10;    margin-bottom:12px;&#10;    font-size:16px;&#10;  ">
+    ✦ Contacto: ✦
+  </h2>
+
+  </h2><p style="font-size:11px; line-height:1.6;">
+    Celular: +57 3150012438
+    <br/><br/>
+    Correo Electronico: Laurayiseth816@gmail.com
+    <br/><br/>
+  </p>
+
+</div>
+
+<style>* {cursor: url(https://pixels.crd.co/assets/images/gallery106/6a88de1c.gif?v=29416114), auto !important;}<style/></style>
